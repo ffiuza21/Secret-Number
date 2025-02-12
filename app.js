@@ -68,4 +68,4 @@ function restartGame() {
 
 }
 
-let trepp = 7855
+let trepp = 69;
