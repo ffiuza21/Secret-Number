@@ -67,3 +67,6 @@ function restartGame() {
     document.getElementById('reiniciar').setAttribute('disabled', true);
 
 }
+let abab = 12355
+//cometario 
+// coment 2
