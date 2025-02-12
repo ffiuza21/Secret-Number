@@ -67,7 +67,5 @@ function restartGame() {
     document.getElementById('reiniciar').setAttribute('disabled', true);
 
 }
-let abab = 12355
-//cometario 
-// coment 2
-9090909
+
+let trepp = 7855
