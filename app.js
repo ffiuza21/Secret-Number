@@ -67,5 +67,3 @@ function restartGame() {
     document.getElementById('reiniciar').setAttribute('disabled', true);
 
 }
-
-let trepp = 69;
